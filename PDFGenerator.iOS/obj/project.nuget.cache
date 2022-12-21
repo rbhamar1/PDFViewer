@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6BxE2h7B14YQlB6i2C1yc9umhYArCW442zbG1ywwrVsG5RMTXQCnHRASm0nbohAsCPshflvqwOa/2k9yolWvQ==",
+  "success": true,
+  "projectFilePath": "/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator.iOS/PDFGenerator.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/rahulbhamare/.nuget/packages/xamarin.forms/3.3.0.967583/xamarin.forms.3.3.0.967583.nupkg.sha512"
+  ],
+  "logs": []
+}

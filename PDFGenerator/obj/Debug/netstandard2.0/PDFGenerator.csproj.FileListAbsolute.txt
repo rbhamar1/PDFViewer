@@ -1,0 +1,12 @@
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/bin/Debug/netstandard2.0/PDFGenerator.deps.json
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/bin/Debug/netstandard2.0/PDFGenerator.dll
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/bin/Debug/netstandard2.0/PDFGenerator.pdb
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/PDFGenerator.csproj.AssemblyReference.cache
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/PDFGenerator.AssemblyInfoInputs.cache
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/PDFGenerator.AssemblyInfo.cs
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/PDFGenerator.csproj.CoreCompileInputs.cache
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/PDFGenerator.dll
+/Users/rahulbhamare/Documents/Rahul Bhamare/PDFGenerator/PDFGenerator/PDFGenerator/obj/Debug/netstandard2.0/PDFGenerator.pdb
